@@ -11,6 +11,7 @@ RUN apt-get update \
         tesseract-ocr \
         tesseract-ocr-eng \
         tesseract-ocr-mar \
+        tesseract-ocr-hin
         libglib2.0-0 \
         libgl1 \
     && rm -rf /var/lib/apt/lists/*
