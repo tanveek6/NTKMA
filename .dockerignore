@@ -1,0 +1,15 @@
+﻿.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.log
+server.out.log
+server.err.log
+uploads/
+data/local_db.json
+**/*firebase-adminsdk*.json
+**/*service-account*.json
+ntkma-media-system-firebase-adminsdk-*.json
+.git/
